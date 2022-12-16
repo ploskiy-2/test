@@ -1,0 +1,7 @@
+C:\Users\Пользователь\source\repos\create_list\create_list\bin\Debug\create_list.exe.config
+C:\Users\Пользователь\source\repos\create_list\create_list\bin\Debug\create_list.exe
+C:\Users\Пользователь\source\repos\create_list\create_list\bin\Debug\create_list.pdb
+C:\Users\Пользователь\source\repos\create_list\create_list\obj\Debug\create_list.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\create_list\create_list\obj\Debug\create_list.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\create_list\create_list\obj\Debug\create_list.exe
+C:\Users\Пользователь\source\repos\create_list\create_list\obj\Debug\create_list.pdb
